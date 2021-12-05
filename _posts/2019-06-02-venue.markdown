@@ -5,9 +5,10 @@ date:  2021-12-06
 image: /images/jcdl2019.png
 categories: research
 author: "Hermanni Hälvä"
-authors: "<strong>Hermanni Hälvä</strong>", Sylvain Le Corff, Luc Lehéricy, Jonathan So, Yongjie Zhu, Elisabeth Gassiat, Aapo Hyvärinen
+authors: "<strong>Hermanni Hälvä</strong>, Sylvain Le Corff, Luc Lehéricy, Jonathan So, Yongjie Zhu, Elisabeth Gassiat, Aapo Hyvärinen"
 venue: "35th Conference on Neural Information Processing Systems (NeurIPS2021)"
-arxiv: https://arxiv.org/abs/1904.12573
+arxiv: https://arxiv.org/abs/2106.09620
+openreview: https://openreview.net/forum?id=52XXcK8jY0J
 slides: /pdfs/jcdl2019.pdf
 code: https://github.com/HHalva/snica 
 ---
