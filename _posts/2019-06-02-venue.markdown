@@ -10,6 +10,7 @@ venue: "35th Conference on Neural Information Processing Systems (NeurIPS2021)"
 arxiv: https://arxiv.org/abs/2106.09620
 openreview: https://openreview.net/forum?id=52XXcK8jY0J
 slides: /pdfs/snica_slides.pdf
+poster: /pdfs/snica_poster.png
 code: https://github.com/HHalva/snica 
 bib: /bibs/snica.bib
 ---
