@@ -84,6 +84,9 @@
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
+              {% if post.openreview%}
+              <a href="{{post.openreview}}">openreview</a> /
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
