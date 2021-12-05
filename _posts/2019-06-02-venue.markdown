@@ -11,5 +11,6 @@ arxiv: https://arxiv.org/abs/2106.09620
 openreview: https://openreview.net/forum?id=52XXcK8jY0J
 slides: /pdfs/snica_slides.pdf
 code: https://github.com/HHalva/snica 
+bib: /bibs/snica.bib
 ---
 General 

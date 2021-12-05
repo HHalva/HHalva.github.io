@@ -87,6 +87,9 @@
               {% if post.openreview%}
               <a href="{{post.openreview}}">openreview</a> /
               {% endif %}
+              {% if post.bib%}
+              <a href="{{post.bib}}">bibtex</a> /
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
