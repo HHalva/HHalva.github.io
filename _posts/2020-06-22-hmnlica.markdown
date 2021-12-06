@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Hidden Markov Nonlinear ICA: Unsupervised Learning from Nonstationary Time Series"
+date: 2020-12-06 00:00:00
+image: /images/hmnica2020.png
+categories: research
+author: "Hermanni Hälvä"
+authors: "<strong>Hermanni Hälvä</strong>, Aapo Hyvärinen"
+venue: "Proceedings of the 36th Conference on Uncertainty in Artificial
+Intelligence (UAI), PMLR volume 124, 2020"
+arxiv: https://arxiv.org/abs/2006.12107 
+openreview: 
+slides: /pdfs/uai_presentation.pdf
+poster:
+code: https://github.com/HHalva/hmnlica
+proceeds: https://proceedings.mlr.press/v124/halva20a/halva20a.pdf
+bib: /bibs/hmnica.bib
+---
+We show that temporal nonstationary as represented by hidden markov chain identifies nonlinear ICA.
