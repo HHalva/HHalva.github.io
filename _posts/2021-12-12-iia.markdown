@@ -6,9 +6,10 @@ image: /images/iia2021.png
 categories: research
 author: "Hermanni Hälvä"
 authors: "Hiroshi Morioka, <strong>Hermanni Hälvä</strong>, Aapo Hyvärinen"
-venue: "24th International Conference on Artificial Intelligence and Statistics (AISTATS) 2021"
+venue: "24th International Conference on Artificial Intelligence and Statistics (AISTATS)"
 proceeds: https://proceedings.mlr.press/v130/morioka21a/morioka21a.pdf
 arxiv: https://arxiv.org/abs/2006.10944
+video: https://papertalk.org/papertalks/27673
 bib: /bibs/snica.bib
 ---
 Nonlinear vector autoregressive process where the innovations at each time point are assumed indepndent and are proven to be identifiable. Can be interpreted as nonlinear ICA for autoregressive time-series.
