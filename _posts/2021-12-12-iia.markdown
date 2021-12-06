@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Independent Innovation Analysis for Nonlinear Vector Autoregressive Process"
-date: 2021
+date: 2021-02-26 00:00:00
 image: /images/iia2021.png
 categories: research
 author: "Hermanni Hälvä"
