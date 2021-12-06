@@ -14,4 +14,4 @@ poster: /pdfs/snica_poster.png
 code: https://github.com/HHalva/snica 
 bib: /bibs/snica.bib
 ---
-General 
+General framework for identifiable disentanglement on structured data with nonlinear ICA. Identifiability holds even in the presence of uknown and arbitrary output noise.
