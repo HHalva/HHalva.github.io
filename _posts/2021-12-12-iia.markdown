@@ -11,4 +11,4 @@ proceeds: https://proceedings.mlr.press/v130/morioka21a/morioka21a.pdf
 arxiv: https://arxiv.org/abs/2006.10944
 bib: /bibs/snica.bib
 ---
-Nonlinear vector autoregressive process where the innovations at each time point are assumed indepndent and are proven to be identifiable. Can be interpreted as nonlinear ICA for autoregressive time-series. 
+Nonlinear vector autoregressive process where the innovations at each time point are assumed indepndent and are proven to be identifiable. Can be interpreted as nonlinear ICA for autoregressive time-series.
