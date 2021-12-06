@@ -2,7 +2,7 @@
 layout: post
 title:  "Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA"
 date:  2021-12-06 
-image: /images/jcdl2019.png
+image: /images/snica_thumb.png
 categories: research
 author: "Hermanni Hälvä"
 authors: "<strong>Hermanni Hälvä</strong>, Sylvain Le Corff, Luc Lehéricy, Jonathan So, Yongjie Zhu, Elisabeth Gassiat, Aapo Hyvärinen"
