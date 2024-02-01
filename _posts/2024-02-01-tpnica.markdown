@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Identifiable Feature Learning for Spatial Data with Nonlinear ICA"
+date: 2024-02-01 00:00:00
+image: /images/tpnica2024.png
+categories: research
+author: "Hermanni Hälvä"
+authors: "<strong>Hermanni Hälvä</strong>, Jonathan So, Richard E. Turner, Aapo Hyvärinen"
+venue: "27th International Conference on Artificial Intelligence and Statistics (AISTATS)"
+arxiv: https://arxiv.org/pdf/2311.16849.pdf 
+bib: /bibs/tpnica.bib
+---
+A new algorithm that allows nonlinear ICA to be applied to data with arbitrary high-dimensional latent structures. This model relies on t-process latent space, and was developed with spatio-temporal data in mind. 
