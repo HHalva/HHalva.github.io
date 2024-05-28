@@ -7,6 +7,7 @@ categories: research
 author: "Hermanni Hälvä"
 authors: "<strong>Hermanni Hälvä</strong>, Sylvain Le Corff, Luc Lehéricy, Jonathan So, Yongjie Zhu, Elisabeth Gassiat, Aapo Hyvärinen"
 venue: "35th Conference on Neural Information Processing Systems (NeurIPS)"
+proceedings: https://papers.nips.cc/paper/2021/hash/0cdbb4e65815fbaf79689b15482e7575-Abstract.html
 arxiv: https://arxiv.org/abs/2106.09620
 openreview: https://openreview.net/forum?id=52XXcK8jY0J
 slides: /pdfs/snica_slides.pdf
